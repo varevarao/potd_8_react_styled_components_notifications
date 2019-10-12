@@ -10,6 +10,8 @@ const Notification = styled.div`
   margin-top: 2px;
   margin-bottom: 2px;
 
+  padding: 0.25rem;
+
   display: flex;
 
   background-color: white;
@@ -28,6 +30,8 @@ const NotificationContent = styled.div`
 
   display: flex;
   flex-direction: column;
+
+  margin-left: 0.5rem;
 
   justify-content: center;
   align-items: flex-start;
