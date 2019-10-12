@@ -1,3 +1,8 @@
+# Project Of The Day #8: React + Styled Components, a simple notification list view
+A basic React app that shows how to build a simple list view for notifications, using only React functional components, and styled components.
+
+![sample](/screenshots/sample.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
